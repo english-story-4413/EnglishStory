@@ -12,7 +12,7 @@ function App() {
 
   const [titles] = useState([
     {
-      title: "The beginning of a legend",
+      title: "The beginning of a legend [伝説の始まり]",
       id: "1-1"
     }
   ]);

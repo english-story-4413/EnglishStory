@@ -7,7 +7,10 @@ const SimpleText = ({id, text, clicked}) => {
   }
 
   return (
-    <span onClick={clickedText}>{text}{String.fromCharCode(32)}</span>
+    <>
+      {text === "<br>" && <br />}
+      {text !== "<br>" && <span onClick={clickedText}>{text}{String.fromCharCode(32)}</span>}
+    </>
   )
 }
 
