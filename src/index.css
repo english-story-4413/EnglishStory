@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#commentary{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+}
+
+.twice{
+  font-size: 2em;
+}

@@ -1,0 +1,23 @@
+.inline{
+    display: flex;
+}
+
+.inline #words{
+    padding-right: 20px;
+}
+
+#commentary{
+    padding: 10px;
+}
+
+#commentary p{
+    padding: 20px;
+}
+
+#commentary .nill{
+    height: 10px;
+}
+
+#commentary .center{
+    text-align: center;
+}

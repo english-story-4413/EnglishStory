@@ -1,0 +1,26 @@
+{"texts" : [
+    {
+        "text": "There is a bad king in the kingdom.",
+        "jp": "悪い王様がその王国にいます。",
+        "commentary": {
+            "words" : [
+                {"word": "There + [be動詞] + 〜", "mean":"〜がいます。"},
+                {"word": "bad", "mean":"悪い"},
+                {"word": "king", "mean":"王様"},
+                {"word": "kingdom", "mean":"王国"}
+            ],
+            "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
+        }
+    },{
+        "text": "People become poor.",
+        "jp": "人々は貧しくなります。",
+        "commentary": {
+            "words" : [
+                {"word": "people", "mean":"人々"},
+                {"word": "become", "mean":"〜になる"},
+                {"word": "poor", "mean":"貧しい"}
+            ],
+            "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
+        }
+    }
+]}

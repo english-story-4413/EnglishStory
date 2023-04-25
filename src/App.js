@@ -1,24 +1,35 @@
-import logo from './logo.svg';
+import React from 'react';
+import { useState } from 'react';
+import ReactDOM from 'react-dom/client';
 import './App.css';
+import $ from 'jquery'
+import Title from './Title';
+import Story from './Story';
+
+const textRoot = ReactDOM.createRoot( document.getElementById("text") );
 
 function App() {
+
+  const [titles] = useState([
+    {
+      title: "The beginning of a legend",
+      id: "1-1"
+    }
+  ]);
+
+  function showText(id, title){
+    import("./Stories/" + id + ".json").then(data => {
+      console.log(data);
+      textRoot.render(<Story data={data} title={title} />);
+      $("#root").attr("style", "display: none;");
+      $("#text").attr("style", "display: block;");
+    })
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ul>
+      {titles.map((title, index) => <Title key={index} title={title} show={showText} />)}
+    </ul>
   );
 }
 
