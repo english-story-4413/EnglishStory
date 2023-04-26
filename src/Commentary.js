@@ -18,7 +18,11 @@ const Commentary = ({text}) => {
             <div className={"inline"}>
                 <div id="words">
                     <h3>単語・熟語</h3>
-                    {text.commentary.words.map((word,index) => <Word word={word} key={index}/>)}
+                    <table>
+                        <tbody>
+                            {text.commentary.words.map((word,index) => <Word word={word} key={index}/>)}
+                        </tbody>
+                    </table>
                 </div>
                 <div id="comments">
                     {text.commentary.commentaries.map((commentary, index) => <CommentaryDetail commentary={commentary} index={index + 1} key={index}/>)}

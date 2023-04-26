@@ -1,0 +1,20 @@
+{
+    "titles" : [
+        {
+            "eng": "PeachTaro",
+            "jp" : "桃太郎",
+            "id" : "peach"
+        },{
+            "eng": "Original Story",
+            "jp" : "オリジナルストーリー",
+            "children":[
+                {
+                    "eng" : "The beggining of the story",
+                    "jp"  : "物語の始まり",
+                    "id"  : "main1-1",
+                    "num" : "1-1"
+                }
+            ]
+        }
+    ]
+}

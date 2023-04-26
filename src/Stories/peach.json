@@ -1,0 +1,99 @@
+{"texts" : [
+    {
+        "text": "Long long ago, there were an old man and an old woman somewhere.",
+        "jp": "昔々、あることころにおじいさんとおばあさんがいました。",
+        "commentary": {
+            "words" : [
+                {"word": "long long ago", "mean":"昔々"},
+                {"word": "old", "mean":"歳をとった"},
+                {"word": "man", "mean":"男の人"},
+                {"word": "woman", "mean":"女の人"},
+                {"word": "somewhere", "mean":"あるところ"}
+            ],
+            "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
+        }
+    },{
+        "text" : "The old man went to a mountain to mow the lawn, and the old woman went to a river to do some laundry.",
+
+        "jp" : "おじいさんは山に芝刈りに行き、おばあさんは川へ洗濯をしに行きました。",
+        "commentary": {
+            "words" : [
+                {"word": "old", "mean":"歳をとった"},
+                {"word": "man", "mean":"男の人"},
+                {"word": "went to", "mean":"go toの過去形、〜に行った"},
+                {"word": "mountain", "mean":"山"},
+                {"word": "mow", "mean":"刈る"},
+                {"word": "lawn", "mean":"芝"},
+                {"word": "woman", "mean":"女の人"},
+                {"word": "river", "mean":"川"},
+                {"word": "do some laundry", "mean":"洗濯をする"}
+            ],
+            "commentaries" : [
+                {"title": "To不定詞", "content": "「to + 動詞の原形」で「〜すること」、「〜するための」、「〜するために」という3つの意味があります。 \n今回は「〜するために」の意味になります。"},
+                {"title": "接続詞 and", "content":"「〜, and ー.」で「〜、そして、ー。」という意味になります。"}
+            ]
+        }
+    },{
+        "text" : "<br>",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "A big peach came from the river when she was doing some laundry.",
+        "jp" : "彼女が洗濯をしていたとき、大きな桃が川からやってきました。",
+        "commentary": {
+            "words" : [
+                {"word": "big", "mean":"大きい"},
+                {"word": "peach", "mean":"桃"},
+                {"word": "peach", "mean":"桃"},
+                {"word": "peach", "mean":"桃"}
+            ],
+            "commentaries" : [
+                {"title": "接続詞 when", "content": "「〜 when ー.」で「ーするとき、〜。」という意味になります。\n「When ー, 〜.」という書き方もできます。"}
+            ]
+        }
+    },{
+        "text" : "<br>",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "\"What a big peach! I want to take this home\".",
+        "jp" : "何と大きな桃でしょう。家に持って帰りたいです。",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    }
+]}

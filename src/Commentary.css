@@ -21,3 +21,7 @@
 #commentary .center{
     text-align: center;
 }
+
+#commentary tr{
+    border: 1px solid #000;
+}

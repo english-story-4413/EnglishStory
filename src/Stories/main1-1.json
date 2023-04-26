@@ -12,15 +12,14 @@
             "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
         }
     },{
-        "text": "People become poor.",
-        "jp": "人々は貧しくなります。",
+        "text": "People are poor.",
+        "jp": "人々は貧しいです。",
         "commentary": {
             "words" : [
                 {"word": "people", "mean":"人々"},
-                {"word": "become", "mean":"〜になる"},
                 {"word": "poor", "mean":"貧しい"}
             ],
-            "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
+            "commentaries" : []
         }
     }
 ]}

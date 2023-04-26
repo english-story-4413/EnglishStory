@@ -25,4 +25,14 @@ code {
 
 #text{
   line-height: 2em;
+  padding: 10px;
+}
+
+.no-dot{
+  list-style:none;
+}
+
+.title-list:hover{
+  background: #000;
+  color: #fff;
 }
