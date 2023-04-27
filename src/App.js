@@ -5,6 +5,7 @@ import $ from 'jquery'
 import Title from './Title';
 import Story from './Story';
 import titleData from './Titles.json'
+import qr from './qr.jpg'
 
 const textRoot = ReactDOM.createRoot( document.getElementById("text") );
 
@@ -21,20 +22,25 @@ function App() {
   }
 
   return (
-    <ul>
-      {titles.map((title, index1) => {
-        if (title.id) {
-          return <Title key={index1} title={title} show={showText} />;
-        } else{
-          return <>
-            <li>{title.eng}[{title.jp}]</li>
-            <li className={"no-dot"}><ul>
-            {title.children.map((child, index2) => <Title key={index1 + "-" +index2} title={child} show={showText} />)}
-            </ul></li>
-          </>
-        }
-      })}
-    </ul>
+    <>
+      <h1>英語に慣れよう</h1>
+      <h3>物語</h3>
+      <ul>
+        {titles.map((title, index1) => {
+          if (title.id) {
+            return <Title key={index1} title={title} show={showText} />;
+          } else{
+            return <>
+              <li>{title.eng}[{title.jp}]</li>
+              <li className={"no-dot"}><ul>
+              {title.children.map((child, index2) => <Title key={index1 + "-" +index2} title={child} show={showText} />)}
+              </ul></li>
+            </>
+          }
+        })}
+      </ul>
+      <img src={qr} />
+    </>
   );
 }
 

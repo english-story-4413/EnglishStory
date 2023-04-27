@@ -34,17 +34,7 @@
             ]
         }
     },{
-        "text" : "<br>",
-        "jp" : "",
-        "commentary": {
-            "words" : [
-                {"word": "", "mean":""},
-                {"word": "", "mean":""}
-            ],
-            "commentaries" : [
-                {"title": "", "content": ""}
-            ]
-        }
+        "text" : "<br>"
     },{
         "text" : "A big peach came from the river when she was doing some laundry.",
         "jp" : "彼女が洗濯をしていたとき、大きな桃が川からやってきました。",
@@ -52,15 +42,84 @@
             "words" : [
                 {"word": "big", "mean":"大きい"},
                 {"word": "peach", "mean":"桃"},
-                {"word": "peach", "mean":"桃"},
-                {"word": "peach", "mean":"桃"}
+                {"word": "came", "mean":"comeの過去形"},
+                {"word": "river", "mean":"川"},
+                {"word": "when", "mean":"〜のとき、いつ"},
+                {"word": "do some laundry", "mean":"洗濯をする"}
             ],
             "commentaries" : [
                 {"title": "接続詞 when", "content": "「〜 when ー.」で「ーするとき、〜。」という意味になります。\n「When ー, 〜.」という書き方もできます。"}
             ]
         }
     },{
-        "text" : "<br>",
+        "text" : "<br>"
+    },{
+        "text" : "\"What a big peach! I want to take this home\".",
+        "jp" : "何と大きな桃でしょう。家に持っていきたいです。",
+        "commentary": {
+            "words" : [
+                {"word": "What a 〜.", "mean":"なんと〜でしょう。"},
+                {"word": "big", "mean":"大きい"},
+                {"word": "peach", "mean":"桃"},
+                {"word": "want to 〜", "mean":"〜したい"},
+                {"word": "take", "mean":"持っていく"},
+                {"word": "home", "mean":"家"}
+            ],
+            "commentaries" : [
+                {"title": "感嘆表現", "content": "「What a [形容詞]」で「なんと[形容詞]なことでしょう！」という意味になります。"},
+                {"title": "〜したい", "content": "「want to [動詞の一般形]」で「[動詞]したい」という意味になります。"}
+            ]
+        }
+    },{
+        "text" : "<br>"
+    },{
+        "text" : "She took the peach home.",
+        "jp" : "彼女はその桃を家に持っていきました。",
+        "commentary": {
+            "words" : [
+                {"word": "took", "mean":"takeの過去形"},
+                {"word": "take", "mean":"持っていく"},
+                {"word": "peach", "mean":"桃"},
+                {"word": "home", "mean":"家"}
+            ],
+            "commentaries" : []
+        }
+    },{
+        "text" : "When she tried to cut the peach, a baby was born from the peach.",
+        "jp" : "彼女がその桃を切ろうとしたとき、桃から赤ちゃんが産まれました。",
+        "commentary": {
+            "words" : [
+                {"word": "tried", "mean":"tryの過去形"},
+                {"word": "try to 〜", "mean":"〜しようとする。"},
+                {"word": "cut", "mean":"切る"},
+                {"word": "peach", "mean":"桃"},
+                {"word": "baby", "mean":"赤ちゃん"},
+                {"word": "be born", "mean":"生まれる"}
+            ],
+            "commentaries" : [
+                {"title": "接続詞 when", "content": "「〜 when ー.」で「ーするとき、〜。」という意味になります。\n「When ー, 〜.」という書き方もできます。"},
+                {"title": "tried to 〜", "content": "「try to [動詞の一般形]」で「〜しようとする。（けどできなかった）」という意味になります。\n「try [動詞のing形]」で「試しに〜する」と間違えやすいので注意しましょう。"}
+            ]
+        }
+    },{
+        "text" : "They were surprised but they were happy about that.",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""},
+                {"word": "", "mean":""},
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "<br>"
+    },{
+        "text" : "\"What shall we name him?\"",
         "jp" : "",
         "commentary": {
             "words" : [
@@ -72,8 +131,57 @@
             ]
         }
     },{
-        "text" : "\"What a big peach! I want to take this home\".",
-        "jp" : "何と大きな桃でしょう。家に持って帰りたいです。",
+        "text" : "<br>"
+    },{
+        "text" : "\"Because he was born from a peach, how about naming him Peach-taro?\"",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "<br>"
+    },{
+        "text" : "\"I like it.\"",
+        "jp" : "それはいいですね。",
+        "commentary": {
+            "words" : [],
+            "commentaries" : []
+        }
+    },{
+        "text" : "<br>"
+    },{
+        "text" : "",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "",
+        "jp" : "",
+        "commentary": {
+            "words" : [
+                {"word": "", "mean":""},
+                {"word": "", "mean":""}
+            ],
+            "commentaries" : [
+                {"title": "", "content": ""}
+            ]
+        }
+    },{
+        "text" : "",
+        "jp" : "",
         "commentary": {
             "words" : [
                 {"word": "", "mean":""},

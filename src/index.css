@@ -28,6 +28,11 @@ code {
   padding: 10px;
 }
 
+#root{
+  line-height: 2em;
+  padding: 10px;
+}
+
 .no-dot{
   list-style:none;
 }
