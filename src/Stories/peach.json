@@ -10,7 +10,7 @@
                 {"word": "woman", "mean":"女の人"},
                 {"word": "somewhere", "mean":"あるところ"}
             ],
-            "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
+            "commentaries" : [{"title": "There is 構文", "content": "「There is [主語] [場所].」で「[主語]が[場所]にいます。」という意味になります。"}]
         }
     },{
         "text" : "The old man went to a mountain to mow the lawn, and the old woman went to a river to do some laundry.",
@@ -103,28 +103,29 @@
         }
     },{
         "text" : "They were surprised but they were happy about that.",
-        "jp" : "",
+        "jp" : "彼らは驚きました、しかし、そのことについて喜びました。",
         "commentary": {
             "words" : [
-                {"word": "", "mean":""},
-                {"word": "", "mean":""},
-                {"word": "", "mean":""},
-                {"word": "", "mean":""},
-                {"word": "", "mean":""}
+                {"word": "be surprised", "mean":"驚く"},
+                {"word": "be happy", "mean":"よろこぶ"},
+                {"word": "but", "mean":"しかし"},
+                {"word": "about", "mean":"〜について"}
             ],
             "commentaries" : [
-                {"title": "", "content": ""}
+                {"title": "接続詞but", "content": "「but」は「しかし」という逆接の接続詞です。"}
             ]
         }
     },{
         "text" : "<br>"
     },{
         "text" : "\"What shall we name him?\"",
-        "jp" : "",
+        "jp" : "彼に何と名づけましょうか。",
         "commentary": {
             "words" : [
-                {"word": "", "mean":""},
-                {"word": "", "mean":""}
+                {"word": "what", "mean":"何"},
+                {"word": "shall we", "mean":"〜しましょう"},
+                {"word": "name", "mean":"名付ける"},
+                {"word": "him", "mean":"彼に、彼を"}
             ],
             "commentaries" : [
                 {"title": "", "content": ""}
