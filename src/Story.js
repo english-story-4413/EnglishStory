@@ -15,7 +15,6 @@ const Story = ({data, title}) => {
         </React.StrictMode>
       );
       $("#commentary").attr("style", "height: 100vh; padding: 10px;");
-      $("#text").attr("style", "display: none;");
     }
 
     function closeStory() {
