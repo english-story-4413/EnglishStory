@@ -8,8 +8,8 @@ const SimpleText = ({id, text, clicked}) => {
 
   return (
     <>
-      {text === "<br>" && <br />}
-      {text !== "<br>" && <span onClick={clickedText}>{text}{String.fromCharCode(32)}</span>}
+      {(text === "<br>" || text === "&lt;br&gt;") && <br />}
+      {!["<br>", "&lt;br&gt;"].includes(text) && <span onClick={clickedText}>{text}{String.fromCharCode(32)}</span>}
     </>
   )
 }
