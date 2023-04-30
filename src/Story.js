@@ -24,7 +24,7 @@ const Story = ({data, title}) => {
   
     return (
       <>
-        <p width="100%" align="right"><button onClick={closeStory}>タイトルに戻る</button></p>
+        <p className='title-btn-p'><button onClick={closeStory}>タイトルに戻る</button></p>
         <h1>{title}</h1>
         {data.texts.map((text, index) => <SimpleText id={index} text={text.text} clicked={addCommentary} key={index} />)}
       </>

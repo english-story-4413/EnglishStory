@@ -13,7 +13,7 @@ const Commentary = ({text}) => {
 
     return (
         <>
-            <p width="100%" align="right"><button onClick={deleteCommentary}>解説を閉じる</button></p>
+            <p className='title-btn-p'><button onClick={deleteCommentary}>解説を閉じる</button></p>
             <h2 className={"center"}>{text.text}</h2>
             <div className={"inline"}>
                 <div id="words">
