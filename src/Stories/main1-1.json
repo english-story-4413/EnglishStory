@@ -1,37 +1,172 @@
-{"texts" : [
-    {
-        "text": "There is a bad king in the kingdom.",
-        "jp": "悪い王様がその王国にいます。",
-        "commentary": {
-            "words" : [
-                {"word": "There + [be動詞] + 〜", "mean":"〜がいます。"},
-                {"word": "bad", "mean":"悪い"},
-                {"word": "king", "mean":"王様"},
-                {"word": "kingdom", "mean":"王国"}
-            ],
-            "commentaries" : [{"title": "There is 構文", "content": "There is [主語] [場所].で「[主語]が[場所]にいます。」という意味になります。"}]
+
+{"texts":
+    [
+        {
+            "text": "A bad king is in the kingdom.",
+            "jp": "その王国に悪い王様がいます。",
+            "commentary": {
+                "words": [
+                        {"word": "bad", "mean": "悪い"}
+                        ,
+                        {"word": "king", "mean": "王様"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                ],
+                "commentaries": [
+                ]
+            }
         }
-    },{
-        "text": "People are poor.",
-        "jp": "人々は貧しいです。",
-        "commentary": {
-            "words" : [
-                {"word": "people", "mean":"人々"},
-                {"word": "poor", "mean":"貧しい"}
-            ],
-            "commentaries" : []
+        ,
+        {
+            "text": "People have been poor for one hundred years.",
+            "jp": "人々は100年間ずっと貧しいです。",
+            "commentary": {
+                "words": [
+                        {"word": "people", "mean": "人々"}
+                        ,
+                        {"word": "poor", "mean": "貧しい"}
+                        ,
+                        {"word": "one", "mean": "1、ある"}
+                        ,
+                        {"word": "hundred", "mean": "100"}
+                        ,
+                        {"word": "year", "mean": "年"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "現在完了 have + [動詞の過去分詞形]",
+                            "content": "「have + [動詞の過去分詞形]」で以下の3つの意味になります。\n\n① 継続「(ずっと)～している」\n② 経験「～したことがある」\n③ 完了・結果「(ちょうど)～したところだ」「(もう)～した」"
+                        }
+                ]
+            }
         }
-    },{
-        "text" : "",
-        "jp" : "",
-        "commentary": {
-            "words" : [
-                {"word": "", "mean":""},
-                {"word": "", "mean":""}
-            ],
-            "commentaries" : [
-                {"title": "", "content": ""}
-            ]
+        ,
+        {
+            "text": "Kazoo lives in a small village in the domain, and he is the main character of this story.",
+            "jp": "カズーはその領域（王国）の小さな村で暮らしています、そして彼はこの物語の主人公です。",
+            "commentary": {
+                "words": [
+                        {"word": "live", "mean": "暮らす"}
+                        ,
+                        {"word": "small", "mean": "小さい"}
+                        ,
+                        {"word": "village", "mean": "村"}
+                        ,
+                        {"word": "domain", "mean": "領域、区域"}
+                        ,
+                        {"word": "main", "mean": "主な、主要な"}
+                        ,
+                        {"word": "character", "mean": "キャラクター"}
+                        ,
+                        {"word": "story", "mean": "物語"}
+                ],
+                "commentaries": [
+                ]
+            }
         }
-    }
-]}
+        ,
+        {
+            "text": "He plows the fields, and these fields have been passed down for generations.",
+            "jp": "彼は畑を耕します、そしてこの畑は代々受け継がれてきました。",
+            "commentary": {
+                "words": [
+                        {"word": "plow", "mean": "耕す"}
+                        ,
+                        {"word": "field", "mean": "フィールド、畑"}
+                        ,
+                        {"word": "pass down", "mean": "伝える、受け継がれる"}
+                        ,
+                        {"word": "generation", "mean": "世代"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                        }
+                        ,
+                        {
+                            "title": "現在完了 have + [動詞の過去分詞形]",
+                            "content": "「have + [動詞の過去分詞形]」で以下の3つの意味になります。\n\n① 継続「(ずっと)～している」\n② 経験「～したことがある」\n③ 完了・結果「(ちょうど)～したところだ」「(もう)～した」"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "-",
+            "jp": "",
+            "commentary": {
+                "words": [
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "\"Please hide me.\"",
+            "jp": "「私を匿ってください。」",
+            "commentary": {
+                "words": [
+                        {"word": "hide", "mean": "隠す、匿う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "A woman said suddenly, and Kazoo tilted his head.",
+            "jp": "女の人は突然言い、カズーは首を傾げました。",
+            "commentary": {
+                "words": [
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "She is out of a fence and is wearing a dirty dress.",
+            "jp": "彼女はフェンスの外にいて、汚れたドレスを着ています。",
+            "commentary": {
+                "words": [
+                        {"word": "out of 〜", "mean": "〜の外に"}
+                        ,
+                        {"word": "fence", "mean": "フェンス"}
+                        ,
+                        {"word": "wear", "mean": "着る"}
+                        ,
+                        {"word": "dirty", "mean": "汚れた"}
+                        ,
+                        {"word": "dress", "mean": "ドレス"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Kazoo thought she might be running away from bad people and could hide and take care of her.",
+            "jp": "",
+            "commentary": {
+                "words": [
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+    ]
+}
