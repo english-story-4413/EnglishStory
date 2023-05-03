@@ -93,14 +93,7 @@
         }
         ,
         {
-            "text": "-",
-            "jp": "",
-            "commentary": {
-                "words": [
-                ],
-                "commentaries": [
-                ]
-            }
+            "text": "-"
         }
         ,
         {
@@ -124,6 +117,13 @@
             "jp": "女の人は突然言い、カズーは首を傾げました。",
             "commentary": {
                 "words": [
+                        {"word": "woman", "mean": "女の人"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "suddenly", "mean": "突然"}
                 ],
                 "commentaries": [
                 ]
@@ -155,16 +155,869 @@
         }
         ,
         {
+            "text": "Kazoo thought she might be running away from bad people and could hide and take care of her.",
+            "jp": "彼女は悪い人から逃げているかも知れないし、彼女を匿って世話をすることができるとカズーは思いました。",
+            "commentary": {
+                "words": [
+                        {"word": "thought", "mean": "thinkの過去形"}
+                        ,
+                        {"word": "think", "mean": "考える"}
+                        ,
+                        {"word": "might", "mean": "mayの過去形"}
+                        ,
+                        {"word": "may", "mean": "おそらく〜だろう、〜かもしれない"}
+                        ,
+                        {"word": "run away", "mean": "逃げる"}
+                        ,
+                        {"word": "bad", "mean": "悪い"}
+                        ,
+                        {"word": "people", "mean": "人々"}
+                        ,
+                        {"word": "could", "mean": "canの過去形"}
+                        ,
+                        {"word": "hide", "mean": "隠す、匿う"}
+                        ,
+                        {"word": "take care of 〜", "mean": "〜の世話をする"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "助動詞 can",
+                            "content": "助動詞の「can」は「〜できる」ということを表します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
             "text": "<br>"
         }
         ,
         {
-            "text": "Kazoo thought she might be running away from bad people and could hide and take care of her.",
-            "jp": "",
+            "text": "\"If you are in a hurry, you can enter the warehouse.",
+            "jp": "「急いでいるのなら、倉庫に入ってもいいです。",
+            "commentary": {
+                "words": [
+                        {"word": "if", "mean": "もし〜ならば"}
+                        ,
+                        {"word": "hurry", "mean": "急ぐ"}
+                        ,
+                        {"word": "enter", "mean": "入る"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Because a woman is in the warehouse, you should tell her in detail.\"",
+            "jp": "女の人がその倉庫にいるから、彼女に詳細を伝えた方がいいです。」",
+            "commentary": {
+                "words": [
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "woman", "mean": "女の人"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                        ,
+                        {"word": "should", "mean": "〜するべきだ、〜した方がいい"}
+                        ,
+                        {"word": "tell", "mean": "伝える"}
+                        ,
+                        {"word": "detail", "mean": "詳細"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                        ,
+                        {
+                            "title": "助動詞 should",
+                            "content": "助動詞の「should」は\n（義務として）「〜すべきだ。」、「〜した方がいい」\nということを表します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Even if she is a thief, it is no problem because Meico is in the warehouse.",
+            "jp": "たとえ彼女が泥棒だったとしても、メイコが倉庫にいるから問題ない。",
+            "commentary": {
+                "words": [
+                        {"word": "even if", "mean": "たとえ〜だとしても"}
+                        ,
+                        {"word": "thief", "mean": "泥棒"}
+                        ,
+                        {"word": "problem", "mean": "問題"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                        ,
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "She ran away to the warehouse and said,",
+            "jp": "彼女は倉庫に逃げていき、言いました、",
+            "commentary": {
+                "words": [
+                        {"word": "ran", "mean": "runの過去形"}
+                        ,
+                        {"word": "run away", "mean": "逃げる"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Thank you for helping me.\"",
+            "jp": "「助けてくれてありがとうございます。」",
+            "commentary": {
+                "words": [
+                        {"word": "thank", "mean": "感謝する"}
+                        ,
+                        {"word": "help", "mean": "助ける"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "After a while, big men came.",
+            "jp": "しばらくすると、大きな男がやってきました。",
+            "commentary": {
+                "words": [
+                        {"word": "after a while", "mean": "しばらくして"}
+                        ,
+                        {"word": "big", "mean": "大きい"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "came", "mean": "comeの過去形"}
+                        ,
+                        {"word": "come", "mean": "来る"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "They looked bad.",
+            "jp": "彼らは悪そうに見えます。",
+            "commentary": {
+                "words": [
+                        {"word": "look", "mean": "〜に見える、〜を見る"}
+                        ,
+                        {"word": "bad", "mean": "悪い"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "One of the men told Kazoo,",
+            "jp": "男たちの1人がカズーに言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "one of 〜", "mean": "〜の1人"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "told", "mean": "tellの過去形"}
+                        ,
+                        {"word": "tell", "mean": "伝える"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Hey, did you see a woman?\"",
+            "jp": "「やあ、女の人を見ませんでしたか？」",
+            "commentary": {
+                "words": [
+                        {"word": "hey", "mean": "やあ"}
+                        ,
+                        {"word": "see", "mean": "見る、会う"}
+                        ,
+                        {"word": "woman", "mean": "女の人"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"No, I did not.\"",
+            "jp": "「いいえ見ませんでした。」",
             "commentary": {
                 "words": [
                 ],
                 "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Boss, I think that warehouse is suspicious.\"",
+            "jp": "「ボス、あの倉庫が怪しいと思います。」",
+            "commentary": {
+                "words": [
+                        {"word": "boss", "mean": "ボス"}
+                        ,
+                        {"word": "that", "mean": "あの、あれ"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                        ,
+                        {"word": "suspicious", "mean": "怪しい"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "What an aware man, Kazoo thought, but he also thought it was no problem because Meico was wise, and she might be hiding her in a basement.",
+            "jp": "なんと賢い男なんだ、とカズーは思いました、しかし、メイコは賢くて彼女を地下室に隠しているに違いないから問題ないとも思いました。",
+            "commentary": {
+                "words": [
+                        {"word": "What a 〜.", "mean": "なんと〜でしょう。"}
+                        ,
+                        {"word": "aware", "mean": "気が付く"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "thought", "mean": "thinkの過去形"}
+                        ,
+                        {"word": "think", "mean": "考える"}
+                        ,
+                        {"word": "also", "mean": "もまた"}
+                        ,
+                        {"word": "problem", "mean": "問題"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "wise", "mean": "賢い"}
+                        ,
+                        {"word": "might", "mean": "mayの過去形"}
+                        ,
+                        {"word": "may", "mean": "おそらく〜だろう、〜かもしれない"}
+                        ,
+                        {"word": "hide", "mean": "隠す、匿う"}
+                        ,
+                        {"word": "basement", "mean": "地下室"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Ok.\"",
+            "jp": "「いいですよ。」",
+            "commentary": {
+                "words": [
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Kazoo watched their action because there was a possibility of something being stolen.",
+            "jp": "何かを盗まれる可能性があるから、カズーは彼らの行動を見守りました。",
+            "commentary": {
+                "words": [
+                        {"word": "watch", "mean": "観る、見守る"}
+                        ,
+                        {"word": "action", "mean": "行動"}
+                        ,
+                        {"word": "possibility", "mean": "可能性"}
+                        ,
+                        {"word": "something", "mean": "何か"}
+                        ,
+                        {"word": "stolen", "mean": "stealの過去分詞形"}
+                        ,
+                        {"word": "steal", "mean": "盗む"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                        ,
+                        {
+                            "title": "There be [主語] [場所].",
+                            "content": "「There is [主語] [場所].」で「[主語]が[場所]にいます。」という意味になります。"
+                        }
+                        ,
+                        {
+                            "title": "受動態 be + 過去分詞形",
+                            "content": "「be [動詞の過去分詞形]」で「〜される」という受け身の意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Boss, these are great wheat. Shall we take them to our hideout?\"",
+            "jp": "「ボス、これらは素晴らしい小麦です。隠れ家に持って帰りましょう。」",
+            "commentary": {
+                "words": [
+                        {"word": "these", "mean": "これらは、これらの"}
+                        ,
+                        {"word": "great", "mean": "素晴らしい"}
+                        ,
+                        {"word": "wheat", "mean": "小麦"}
+                        ,
+                        {"word": "shall we", "mean": "〜しましょう"}
+                        ,
+                        {"word": "take", "mean": "持っていく、連れていく"}
+                        ,
+                        {"word": "hideout", "mean": "隠れ家"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "shall we",
+                            "content": "「shall we 〜.」で「〜しましょう。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"That is a good idea.\"",
+            "jp": "「それはいい考えだ。」",
+            "commentary": {
+                "words": [
+                        {"word": "good", "mean": "良い"}
+                        ,
+                        {"word": "idea", "mean": "考え"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "The men began to talk about stealing Kazoo's wheat.",
+            "jp": "その男たちはカズーの小麦を盗むことについて話し始めた。",
+            "commentary": {
+                "words": [
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "began", "mean": "beginの過去形"}
+                        ,
+                        {"word": "begin", "mean": "始める"}
+                        ,
+                        {"word": "talk", "mean": "話す"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "steal", "mean": "盗む"}
+                        ,
+                        {"word": "wheat", "mean": "小麦"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "begin to 〜",
+                            "content": "「begin to [動詞の原型]」で「〜し始める」という表現になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Kazoo said,",
+            "jp": "カズーは言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"What are you talking about? I cannot give you the wheat.\"",
+            "jp": "",
+            "commentary": {
+                "words": [
+                        {"word": "talk", "mean": "話す"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "cannot", "mean": "canの否定形"}
+                        ,
+                        {"word": "give", "mean": "与える"}
+                        ,
+                        {"word": "wheat", "mean": "小麦"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "進行形",
+                            "content": "「be [動詞のing形]」で「〜している」という意味になります。\n否定をする場合は「be not [動詞のing形]」\n質問をするときは「be [主語] [動詞のing形] 」となります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Then, Kazoo punched a man called boss.",
+            "jp": "それからカズーはボスと呼ばれている男を殴った。",
+            "commentary": {
+                "words": [
+                        {"word": "then", "mean": "それから"}
+                        ,
+                        {"word": "punch", "mean": "パンチする"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "call", "mean": "呼ぶ"}
+                        ,
+                        {"word": "boss", "mean": "ボス"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "過去分詞の形容詞的用法",
+                            "content": "「[名詞] [動詞の過去分詞形]」で「[動詞]される[名詞]」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The man was flown to the wall of the warehouse and fainted.",
+            "jp": "その男は倉庫の壁まで飛ばされて気を失いました。",
+            "commentary": {
+                "words": [
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "flown", "mean": "flyの過去分詞系"}
+                        ,
+                        {"word": "fly", "mean": "飛ぶ、飛んでくる"}
+                        ,
+                        {"word": "wall", "mean": "壁"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                        ,
+                        {"word": "fainted", "mean": "気を失う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "受動態 be + 過去分詞形",
+                            "content": "「be [動詞の過去分詞形]」で「〜される」という受け身の意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico entered the warehouse because she heard a loud sound.",
+            "jp": "メイコは大きな音を聞いたので倉庫に入った。",
+            "commentary": {
+                "words": [
+                        {"word": "enter", "mean": "入る"}
+                        ,
+                        {"word": "warehouse", "mean": "倉庫"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "heard", "mean": "hearの過去形"}
+                        ,
+                        {"word": "hear", "mean": "聞く"}
+                        ,
+                        {"word": "loud", "mean": "うるさい"}
+                        ,
+                        {"word": "sound", "mean": "音"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The other men ran to her to take her hostage, but she kicked them, and they fainted.",
+            "jp": "他の男たちは彼女を人質にするために彼女に向かって走りましたが、彼女が彼らを蹴り、彼らもまた気を失いました。",
+            "commentary": {
+                "words": [
+                        {"word": "other", "mean": "他の"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "ran", "mean": "runの過去形"}
+                        ,
+                        {"word": "take [人] hostage", "mean": "[人]を人質にする"}
+                        ,
+                        {"word": "kick", "mean": "蹴る"}
+                        ,
+                        {"word": "fainted", "mean": "気を失う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "To不定詞",
+                            "content": "「to + 動詞の原形」で「〜すること」、「〜するための」、「〜するために」という3つの意味があります。 \n今回は「〜するために」の意味になります。"
+                        }
+                        ,
+                        {
+                            "title": "接続詞but",
+                            "content": "「but」は「しかし」という逆接の接続詞です。"
+                        }
+                        ,
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Meico said,",
+            "jp": "メイコは言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"What should we do with the men?\"",
+            "jp": "「その男たちをどうしましょうか。」",
+            "commentary": {
+                "words": [
+                        {"word": "what", "mean": "何"}
+                        ,
+                        {"word": "should", "mean": "〜するべきだ、〜した方がいい"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "疑問詞 what",
+                            "content": "疑問詞の「what」は「何が、何を」を表します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"I think we should take them police.\"",
+            "jp": "「彼らを警察に連れていくべきだと思います。」",
+            "commentary": {
+                "words": [
+                        {"word": "think", "mean": "考える"}
+                        ,
+                        {"word": "should", "mean": "〜するべきだ、〜した方がいい"}
+                        ,
+                        {"word": "take", "mean": "持っていく、連れていく"}
+                        ,
+                        {"word": "police", "mean": "警察"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"I got it. shall I do so?\"",
+            "jp": "「わかりました、私がそうしましょうか。」",
+            "commentary": {
+                "words": [
+                        {"word": "I got it.", "mean": "わかりました。"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Thank you.\"",
+            "jp": "「ありがとう。」",
+            "commentary": {
+                "words": [
+                        {"word": "thank", "mean": "感謝する"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Meico carried the three big men on her back and ran to the police.",
+            "jp": "メイコは大男三人を担いで警察のところへ走って行った。",
+            "commentary": {
+                "words": [
+                        {"word": "carry", "mean": "運ぶ"}
+                        ,
+                        {"word": "three", "mean": "3"}
+                        ,
+                        {"word": "big", "mean": "大きい"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "on", "mean": "〜の上に"}
+                        ,
+                        {"word": "back", "mean": "後ろ、背中"}
+                        ,
+                        {"word": "ran", "mean": "runの過去形"}
+                        ,
+                        {"word": "run", "mean": "走る"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "After a while, the woman came from the basement with Meico, and the woman said,",
+            "jp": "しばらくして、女の人がメイコと一緒に地下室から出てきて、女の人は言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "after a while", "mean": "しばらくして"}
+                        ,
+                        {"word": "woman", "mean": "女の人"}
+                        ,
+                        {"word": "came", "mean": "comeの過去形"}
+                        ,
+                        {"word": "come from 〜", "mean": "〜からやってくる"}
+                        ,
+                        {"word": "basement", "mean": "地下室"}
+                        ,
+                        {"word": "with 〜", "mean": "〜と一緒に"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Why do you have such surprising things?",
+            "jp": "「どうしてあなたはこんな驚くべきものを持っているのですか。",
+            "commentary": {
+                "words": [
+                        {"word": "why", "mean": "なぜ、どうして"}
+                        ,
+                        {"word": "have", "mean": "持っている"}
+                        ,
+                        {"word": "such", "mean": "このような、そのような"}
+                        ,
+                        {"word": "surprising", "mean": "驚くべき"}
+                        ,
+                        {"word": "thing", "mean": "もの、こと"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "疑問詞 why",
+                            "content": "疑問詞の「why」は「なぜ、どうして」を表します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "You have an awesome basement.",
+            "jp": "あなたは素晴らしい地下室を持っています。",
+            "commentary": {
+                "words": [
+                        {"word": "have", "mean": "持っている"}
+                        ,
+                        {"word": "awesome", "mean": "すばらしい、すごい"}
+                        ,
+                        {"word": "basement", "mean": "地下室"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "I cannot understand Maidroid.\"",
+            "jp": "メイドロイドは理解できません。」",
+            "commentary": {
+                "words": [
+                        {"word": "cannot", "mean": "canの否定形"}
+                        ,
+                        {"word": "understand", "mean": "理解する、分かる"}
+                        ,
+                        {"word": "maid", "mean": "メイド"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "助動詞 can",
+                            "content": "助動詞の「can」は「〜できる」ということを表します。"
+                        }
                 ]
             }
         }

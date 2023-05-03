@@ -23,6 +23,7 @@ function App() {
 
   return (
     <>
+      <a href="https://script.google.com/macros/s/AKfycby5Rx2rQfcgltrTtrut_DZWKkxAgtwpKZ4133-FzqFtp-tRVfCvy68ONR5S6WvDd5PoJA/exec">姉妹サイト</a>
       <h1>英語に慣れよう</h1>
       <h3>物語</h3>
       <ul>
