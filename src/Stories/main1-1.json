@@ -81,7 +81,7 @@
                 "commentaries": [
                         {
                             "title": "接続詞 and",
-                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
                         }
                         ,
                         {
@@ -124,8 +124,16 @@
                         {"word": "say", "mean": "言う"}
                         ,
                         {"word": "suddenly", "mean": "突然"}
+                        ,
+                        {"word": "tilt", "mean": "傾ける"}
+                        ,
+                        {"word": "head", "mean": "頭"}
                 ],
                 "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
                 ]
             }
         }
@@ -148,7 +156,7 @@
                 "commentaries": [
                         {
                             "title": "接続詞 and",
-                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
                         }
                 ]
             }
@@ -209,6 +217,11 @@
                         {
                             "title": "if",
                             "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                        ,
+                        {
+                            "title": "助動詞 can",
+                            "content": "助動詞の「can」は「〜できる」ということを表します。"
                         }
                 ]
             }
@@ -292,7 +305,7 @@
                 "commentaries": [
                         {
                             "title": "接続詞 and",
-                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
                         }
                 ]
             }
@@ -524,8 +537,8 @@
                         }
                         ,
                         {
-                            "title": "There be [主語] [場所].",
-                            "content": "「There is [主語] [場所].」で「[主語]が[場所]にいます。」という意味になります。"
+                            "title": "There be [主語].",
+                            "content": "「There is [主語].」で「[主語]がいます。」という意味になります。\n「There is [主語] [場所].」で「[主語]が[場所]にいます。」という意味になります。"
                         }
                         ,
                         {
@@ -778,7 +791,7 @@
                         ,
                         {
                             "title": "接続詞 and",
-                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
                         }
                 ]
             }
@@ -913,12 +926,12 @@
                         ,
                         {"word": "ran", "mean": "runの過去形"}
                         ,
-                        {"word": "run", "mean": "走る"}
+                        {"word": "run", "mean": "走る、駆け込む"}
                 ],
                 "commentaries": [
                         {
                             "title": "接続詞 and",
-                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。"
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
                         }
                 ]
             }
@@ -1018,6 +1031,506 @@
                             "title": "助動詞 can",
                             "content": "助動詞の「can」は「〜できる」ということを表します。"
                         }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "I will explain about Meico.",
+            "jp": "メイコについて説明します。",
+            "commentary": {
+                "words": [
+                        {"word": "will", "mean": "〜するつもりです"}
+                        ,
+                        {"word": "explain", "mean": "説明する"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "未来の表現will",
+                            "content": "「[主語] will [動詞の一般形] 〜.」で「するつもりです。」と言う意味になります。\n否定文では「will」の部分が「will not」になり、\n疑問文では「Will [主語] [動詞の一般形] 〜?」と言う順番になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico are maid android - Maidroid.",
+            "jp": "メイコはメイドアンドロイドーーメイドロイドです。",
+            "commentary": {
+                "words": [
+                        {"word": "maid", "mean": "メイド"}
+                        ,
+                        {"word": "android", "mean": "アンドロイド"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.1 is next to the woman.",
+            "jp": "メイコ1号は女の人の隣にいます。",
+            "commentary": {
+                "words": [
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.1 is an intelligent android and good at housework.",
+            "jp": "メイコ1号は賢くて家事が上手です。",
+            "commentary": {
+                "words": [
+                        {"word": "intelligent", "mean": "賢い"}
+                        ,
+                        {"word": "android", "mean": "アンドロイド"}
+                        ,
+                        {"word": "good at", "mean": "上手な、得意な"}
+                        ,
+                        {"word": "housework", "mean": "家事"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.2 carried the men some time ago.",
+            "jp": "メイコ2号は、先ほどに男性を運びました。",
+            "commentary": {
+                "words": [
+                        {"word": "carry", "mean": "運ぶ"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "some time ago", "mean": "先ほど"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "She is tuf and powerful android.",
+            "jp": "彼女はタフで力強いアンドロイドです。",
+            "commentary": {
+                "words": [
+                        {"word": "tuf", "mean": "タフ"}
+                        ,
+                        {"word": "powerful", "mean": "力強い"}
+                        ,
+                        {"word": "android", "mean": "アンドロイド"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Then there is Meico No.3, and she can fly.",
+            "jp": "それからメイコ3号がいて、彼女は飛ぶことができます。",
+            "commentary": {
+                "words": [
+                        {"word": "fly", "mean": "飛ぶ、飛んでくる"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "There be [主語].",
+                            "content": "「There is [主語].」で「[主語]がいます。」という意味になります。\n「There is [主語] [場所].」で「[主語]が[場所]にいます。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Well, because I got them from my father,\" Kazoo answere.",
+            "jp": "「えっと、父からそれらをもらったからです。」とカズーは答えました。",
+            "commentary": {
+                "words": [
+                        {"word": "well", "mean": "えっと"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "got", "mean": "getの過去形"}
+                        ,
+                        {"word": "get", "mean": "得る、受け取る"}
+                        ,
+                        {"word": "from 〜", "mean": "〜から"}
+                        ,
+                        {"word": "father", "mean": "父親"}
+                        ,
+                        {"word": "answer", "mean": "答える"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "Whyで聞かれた時の答え方",
+                            "content": "「Why 〜?」で聞かれたら「Because 〜.」で答えましょう。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Anyway, thank you for helping me.\"",
+            "jp": "「とにかく、助けていただきありがとうございました。」",
+            "commentary": {
+                "words": [
+                        {"word": "anyway", "mean": "とにかく"}
+                        ,
+                        {"word": "thank", "mean": "感謝する"}
+                        ,
+                        {"word": "help", "mean": "助ける"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "A woman said and was going to leave.",
+            "jp": "女の人はそう言うと立ち去るつもりだった。",
+            "commentary": {
+                "words": [
+                        {"word": "woman", "mean": "女の人"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "be going to 〜", "mean": "〜するつもりだ"}
+                        ,
+                        {"word": "leave", "mean": "立ち去る"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                        ,
+                        {
+                            "title": "未来の表現 be going to",
+                            "content": "「be going to [動詞の一般形] 〜」で「…するつもりだ」と言うことを表します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Kazoo worried about her and said,",
+            "jp": "カズーは彼女を心配し言った。",
+            "commentary": {
+                "words": [
+                        {"word": "worry", "mean": "心配する"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"What are you going to do from now?",
+            "jp": "「今からどうするつもりですか。",
+            "commentary": {
+                "words": [
+                        {"word": "what", "mean": "何"}
+                        ,
+                        {"word": "be going to 〜", "mean": "〜するつもりだ"}
+                        ,
+                        {"word": "from 〜", "mean": "〜から"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "If you have no idea, why don't you live here?\"",
+            "jp": "もし考えがないのなら、ここで暮らしませんか。」",
+            "commentary": {
+                "words": [
+                        {"word": "if", "mean": "もし〜ならば"}
+                        ,
+                        {"word": "have no idea", "mean": "考えがない"}
+                        ,
+                        {"word": "why don't you 〜?", "mean": "〜しませんか。"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Well, could I do so?\"",
+            "jp": "「えっと、そのようにしても良いのですか。」",
+            "commentary": {
+                "words": [
+                        {"word": "well", "mean": "えっと"}
+                        ,
+                        {"word": "could", "mean": "canの過去形"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "she answered and began to cry.",
+            "jp": "彼女は答えてから泣き始めました。",
+            "commentary": {
+                "words": [
+                        {"word": "answer", "mean": "答える"}
+                        ,
+                        {"word": "began", "mean": "beginの過去形"}
+                        ,
+                        {"word": "begin", "mean": "始める"}
+                        ,
+                        {"word": "cry", "mean": "泣く"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.1 hugged her gently and said.",
+            "jp": "メイコ1号は優しく彼女を抱きしめて言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "hug", "mean": "抱きしめる"}
+                        ,
+                        {"word": "gently", "mean": "優しく"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"It was hard. But Yu, it's ok now because Master and we are here.\"",
+            "jp": "「つらかったですね。でもユー、ご主人様と私たちがいますから今は大丈夫ですよ。」",
+            "commentary": {
+                "words": [
+                        {"word": "hard", "mean": "つらい"}
+                        ,
+                        {"word": "but", "mean": "しかし"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "master", "mean": "主人"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "They seemed to introduce themselves to each other.",
+            "jp": "彼女らはお互いに自己紹介していたようだ。",
+            "commentary": {
+                "words": [
+                        {"word": "seem", "mean": "〜のようだ"}
+                        ,
+                        {"word": "introduce", "mean": "自己紹介をする"}
+                        ,
+                        {"word": "each other", "mean": "お互いに"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The name of the woman is Yu.",
+            "jp": "女の人の名前はユーです。",
+            "commentary": {
+                "words": [
+                        {"word": "name", "mean": "名前"}
+                        ,
+                        {"word": "woman", "mean": "女の人"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "\"Nice to meet you, Yu. I'm Kazoo.\"",
+            "jp": "「よろしくお願いします、ユー。俺はカズーです。」",
+            "commentary": {
+                "words": [
+                        {"word": "nice to meet you", "mean": "よろしくお願いします"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "After a while, Yu ran to the toilet and vomited.",
+            "jp": "しばらくして、ユーはトイレに駆け込み、吐いた。",
+            "commentary": {
+                "words": [
+                        {"word": "after a while", "mean": "しばらくして"}
+                        ,
+                        {"word": "ran", "mean": "runの過去形"}
+                        ,
+                        {"word": "run", "mean": "走る、駆け込む"}
+                        ,
+                        {"word": "toilet", "mean": "トイレ"}
+                        ,
+                        {"word": "vomit", "mean": "吐く"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "\"Are you ok? Meico, can you examine her?\"",
+            "jp": "「大丈夫ですか。メイコ、彼女を診てもらえますか。」",
+            "commentary": {
+                "words": [
+                        {"word": "examine", "mean": "診る"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Ok, well, Yu, you are pregnant.\"",
+            "jp": "「わかった、えっと、ユー、あなたは妊娠しています。」",
+            "commentary": {
+                "words": [
+                        {"word": "pregnant", "mean": "妊娠中"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Really?\"",
+            "jp": "「本当？」",
+            "commentary": {
+                "words": [
+                        {"word": "really", "mean": "本当に"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Yu said.",
+            "jp": "ユーは言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "She didn't know she was pregnant.",
+            "jp": "彼女が妊娠していることを彼女は知りませんでした。",
+            "commentary": {
+                "words": [
+                        {"word": "know", "mean": "知っている"}
+                        ,
+                        {"word": "pregnant", "mean": "妊娠中"}
+                ],
+                "commentaries": [
                 ]
             }
         }
