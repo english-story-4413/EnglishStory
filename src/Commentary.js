@@ -14,6 +14,7 @@ const Commentary = ({text}) => {
     return (
         <>
             <p className='title-btn-p'><button onClick={deleteCommentary}>解説を閉じる</button></p>
+            <p height='4em'></p>
             <h2 className={"center"}>{text.text}</h2>
             <div className={"inline"}>
                 <div id="words">
