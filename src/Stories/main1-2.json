@@ -16,6 +16,10 @@
         }
         ,
         {
+            "text": "<br>"
+        }
+        ,
+        {
             "text": "When Kazoo eats breakfast, he watches a news program.",
             "jp": "カズーは朝食を食べるとき、ニュース番組を見ます。",
             "commentary": {
@@ -101,7 +105,7 @@
             "jp": "「私の料理はどうでしたか。」",
             "commentary": {
                 "words": [
-                        {"word": "how", "mean": "どう、どのような"}
+                        {"word": "how", "mean": "どう、どのような、どうやって"}
                         ,
                         {"word": "cooking", "mean": "料理"}
                 ],
@@ -235,6 +239,10 @@
         }
         ,
         {
+            "text": "<br>"
+        }
+        ,
+        {
             "text": "\"Next news, well, breaking news.\"",
             "jp": "「次のニュース、えっと、速報がです。」",
             "commentary": {
@@ -342,6 +350,10 @@
         }
         ,
         {
+            "text": "<br>"
+        }
+        ,
+        {
             "text": "\"The King's 14th wife is missing.\"",
             "jp": "「国王の14番目の王妃が行方不明です。」",
             "commentary": {
@@ -375,6 +387,10 @@
                         }
                 ]
             }
+        }
+        ,
+        {
+            "text": "<br>"
         }
         ,
         {
@@ -444,6 +460,10 @@
                         }
                 ]
             }
+        }
+        ,
+        {
+            "text": "<br>"
         }
         ,
         {
@@ -688,6 +708,774 @@
         ,
         {
             "text": "-"
+        }
+        ,
+        {
+            "text": "\"I got it,\" Kazoo said.",
+            "jp": "「わかりました。」カズーは言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "I got it.", "mean": "わかりました。"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Am I an annoying person, right?",
+            "jp": "「私は迷惑な人ですよね。",
+            "commentary": {
+                "words": [
+                        {"word": "annoying", "mean": "迷惑な"}
+                        ,
+                        {"word": "person", "mean": "人"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "It's a problem if the kingdom finds me out.\"",
+            "jp": "王国が私を見つけたら問題です。」",
+            "commentary": {
+                "words": [
+                        {"word": "problem", "mean": "問題"}
+                        ,
+                        {"word": "if", "mean": "もし〜ならば"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "副詞句 if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Don't worry.",
+            "jp": "「心配するな。",
+            "commentary": {
+                "words": [
+                        {"word": "don't worry", "mean": "心配するな。"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "It isn't easy to notice that the princess runs away to such a rural village.",
+            "jp": "こんな田舎の村にお妃様が逃げることに気づくのは簡単じゃないです。",
+            "commentary": {
+                "words": [
+                        {"word": "easy", "mean": "簡単"}
+                        ,
+                        {"word": "notice", "mean": "気づく"}
+                        ,
+                        {"word": "princess", "mean": "王女様、お妃様"}
+                        ,
+                        {"word": "run away", "mean": "逃げる"}
+                        ,
+                        {"word": "such", "mean": "こんな、そんな、あんな"}
+                        ,
+                        {"word": "rural", "mean": "田舎"}
+                        ,
+                        {"word": "village", "mean": "村"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "It is 〜 to …構文",
+                            "content": "「It is 〜 to …」で「…するのは〜だ」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Then Even if you are fine, we must worry about the baby in your stomach?",
+            "jp": "それから、たとえあなたが良いとしても、お腹の子供について心配する必要があります。",
+            "commentary": {
+                "words": [
+                        {"word": "then", "mean": "それから"}
+                        ,
+                        {"word": "even if", "mean": "たとえ〜だとしても"}
+                        ,
+                        {"word": "fine", "mean": "良い"}
+                        ,
+                        {"word": "worry", "mean": "心配する"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "baby", "mean": "赤ちゃん"}
+                        ,
+                        {"word": "stomach", "mean": "胃、お腹"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 then",
+                            "content": "「then」は「それから」という意味の接続詞です。"
+                        }
+                        ,
+                        {
+                            "title": "even if",
+                            "content": "「even if 〜」で「たとえ〜だとしても。」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": " Well, because you are a princess, is the baby a child of the king?\"",
+            "jp": "えっと、あなたが王妃だから、その子供は国王の子供ですか？」",
+            "commentary": {
+                "words": [
+                        {"word": "well", "mean": "えっと、まあ"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "princess", "mean": "王女様、お妃様"}
+                        ,
+                        {"word": "baby", "mean": "赤ちゃん"}
+                        ,
+                        {"word": "child", "mean": "子供"}
+                        ,
+                        {"word": "king", "mean": "王様"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Yes, he/she is.",
+            "jp": "「はい、そうです。",
+            "commentary": {
+                "words": [
+                        {"word": "he/she", "mean": "彼か彼女は"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "he/sheなどの表現",
+                            "content": "主語などの性別がわからないときには「he/she」などのように表現します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Are you really OK?",
+            "jp": "本当にいいんですか？",
+            "commentary": {
+                "words": [
+                        {"word": "really", "mean": "本当に"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "If the kingdom finds us out, you will be a kidnapper of a princess and may be on death row.\"",
+            "jp": "もしも王国に見つかったら、あなたは王妃の誘拐犯になって、死刑囚になるかも知れません。」",
+            "commentary": {
+                "words": [
+                        {"word": "if", "mean": "もし〜ならば"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                        ,
+                        {"word": "kidnapper", "mean": "誘拐犯"}
+                        ,
+                        {"word": "princess", "mean": "王女様、お妃様"}
+                        ,
+                        {"word": "on death row", "mean": "死刑囚"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "副詞句 if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                        ,
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"The kingdom cannot find you out if you don't go outside.",
+            "jp": "「あなたが外に出なければ、王国はあなたを見つけることはできません。",
+            "commentary": {
+                "words": [
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "cannot", "mean": "canの否定形"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                        ,
+                        {"word": "if", "mean": "もし〜ならば"}
+                        ,
+                        {"word": "outside", "mean": "外"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "副詞句 if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Of course, you don't have to worry about your health because the gym is in the basement.",
+            "jp": "もちろん、地下室にジムがあるからあなたは健康について心配する必要がありません。",
+            "commentary": {
+                "words": [
+                        {"word": "of course", "mean": "もちろん"}
+                        ,
+                        {"word": "don't have to 〜", "mean": "〜する必要がありません"}
+                        ,
+                        {"word": "worry", "mean": "心配する"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "health", "mean": "健康"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "gym", "mean": "ジム"}
+                        ,
+                        {"word": "basement", "mean": "地下室"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "must / have to",
+                            "content": "「must」と「have to」はどちらも「〜しなければならない」と言う意味になりますが、\n否定形の\n「must not」は「〜してはならない」、\n「don't have to」は「〜する必要はない」と言う意味の違いがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Then because only I have a TV in this village, people in this village will not notice you.\"",
+            "jp": "それに、この村で私だけがテレビを持っているので、この村の人々はあなたに気づかないでしょう。」",
+            "commentary": {
+                "words": [
+                        {"word": "then", "mean": "それから"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "only 〜", "mean": "〜だけ"}
+                        ,
+                        {"word": "have", "mean": "持っている"}
+                        ,
+                        {"word": "village", "mean": "村"}
+                        ,
+                        {"word": "people", "mean": "人々"}
+                        ,
+                        {"word": "notice", "mean": "気づく"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Is there no problem?\"",
+            "jp": "「問題ないですか。」",
+            "commentary": {
+                "words": [
+                        {"word": "problem", "mean": "問題"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "There be [主語].",
+                            "content": "「There is [主語].」で「[主語]がいます。」という意味になります。\n「There is [主語] [場所].」で「[主語]が[場所]にいます。」という意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Yes. Don't worry.\"",
+            "jp": "「はい。心配しないで」",
+            "commentary": {
+                "words": [
+                        {"word": "don't worry", "mean": "心配するな。"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Kazoo said and thought, even if the kingdom finds us out, Meico and I can escape with Yu.",
+            "jp": "カズーは言って、たとえ王国が私たちを見つけてもメイコたちと私はユーと一緒に逃げられると思いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "thought", "mean": "thinkの過去形"}
+                        ,
+                        {"word": "think", "mean": "考える、思う"}
+                        ,
+                        {"word": "even if", "mean": "たとえ〜だとしても"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                        ,
+                        {"word": "escape", "mean": "逃げる"}
+                        ,
+                        {"word": "with 〜", "mean": "〜と一緒に"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "even if",
+                            "content": "「even if 〜」で「たとえ〜だとしても。」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Kazoo grasped the pendant hanging from his neck.",
+            "jp": "カズーは首から掛けたペンダントを掴んだ。",
+            "commentary": {
+                "words": [
+                        {"word": "grasp", "mean": "掴む"}
+                        ,
+                        {"word": "pendant", "mean": "ペンダント"}
+                        ,
+                        {"word": "hang", "mean": "掛ける"}
+                        ,
+                        {"word": "from 〜", "mean": "〜から"}
+                        ,
+                        {"word": "neck", "mean": "首"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "This pendant is a vital amulet for Kazoo.",
+            "jp": "このペンダントはカズーにとって重要なお守りです。",
+            "commentary": {
+                "words": [
+                        {"word": "this", "mean": "これ、この"}
+                        ,
+                        {"word": "pendant", "mean": "ペンダント"}
+                        ,
+                        {"word": "vital", "mean": "重要な"}
+                        ,
+                        {"word": "amulet", "mean": "お守り"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Thank you for hiding me. I'll do my best to be useful to you,\"",
+            "jp": "「匿ってくれてありがとうございます。あなたの役にたつために最善を尽くします。」",
+            "commentary": {
+                "words": [
+                        {"word": "thank", "mean": "感謝する、お礼をする"}
+                        ,
+                        {"word": "hide", "mean": "隠す、匿う"}
+                        ,
+                        {"word": "do one's best", "mean": "最善を尽くす"}
+                        ,
+                        {"word": "useful", "mean": "役に立つ"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Yu said.",
+            "jp": "ユーは言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "At that time, alarm bells rang throughout the house.",
+            "jp": "そのとき、家中に警報ベルが鳴った",
+            "commentary": {
+                "words": [
+                        {"word": "at that time", "mean": "そのとき"}
+                        ,
+                        {"word": "alarm", "mean": "警報、アラーム"}
+                        ,
+                        {"word": "bell", "mean": "ベル"}
+                        ,
+                        {"word": "rang", "mean": "ringの過去形"}
+                        ,
+                        {"word": "ring", "mean": "鳴る"}
+                        ,
+                        {"word": "throughout 〜", "mean": "〜中に"}
+                        ,
+                        {"word": "house", "mean": "家"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.1 said,",
+            "jp": "メイコ1号が言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Master, a group of men with weapons and malicious intent is coming to this house.\"",
+            "jp": "「ご主人様、武器と悪意を持った男達の集団がこの家に来ています」",
+            "commentary": {
+                "words": [
+                        {"word": "master", "mean": "主人"}
+                        ,
+                        {"word": "group", "mean": "グループ、集団"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "with 〜", "mean": "〜を持つ"}
+                        ,
+                        {"word": "weapons", "mean": "武器"}
+                        ,
+                        {"word": "malicious intent", "mean": "悪意"}
+                        ,
+                        {"word": "come", "mean": "来る"}
+                        ,
+                        {"word": "this", "mean": "これ、この"}
+                        ,
+                        {"word": "house", "mean": "家"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"It seems that the kingdom found Yu out.\"",
+            "jp": "「王国がユウを見つけたようです」",
+            "commentary": {
+                "words": [
+                        {"word": "it seems that 〜", "mean": "〜なようです。"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "found", "mean": "findの過去形"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Meico No.3 said,",
+            "jp": "メイコ3号は言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"My battery is fully charged, and my sisters are over 80% charged so we can run away.\"",
+            "jp": "「私のバッテリーは完全に充電されており、姉（1号と2号）は 80% 以上充電されています、だから逃げることができます。」",
+            "commentary": {
+                "words": [
+                        {"word": "battery", "mean": "電池"}
+                        ,
+                        {"word": "fully", "mean": "完全に"}
+                        ,
+                        {"word": "charge", "mean": "充電する、チャージする"}
+                        ,
+                        {"word": "sister", "mean": "姉妹"}
+                        ,
+                        {"word": "over", "mean": "以上、超えて"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                        ,
+                        {"word": "run away", "mean": "逃げる"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"We can't live here because the kingdom found us out.",
+            "jp": "「王国に見つかってしまったから、ここで暮らせないです。",
+            "commentary": {
+                "words": [
+                        {"word": "live", "mean": "暮らす"}
+                        ,
+                        {"word": "here", "mean": "ここで、ここに"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "king", "mean": "王様"}
+                        ,
+                        {"word": "found", "mean": "findの過去形"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Because I want to use the basement, I hide the basement.",
+            "jp": "地下室を使いたいので、地下室を隠します。",
+            "commentary": {
+                "words": [
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "want to 〜", "mean": "〜したい"}
+                        ,
+                        {"word": "use", "mean": "使う"}
+                        ,
+                        {"word": "basement", "mean": "地下室"}
+                        ,
+                        {"word": "hide", "mean": "隠す、匿う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "By the way, how did the kingdom find us out?\"",
+            "jp": "ところで、どうやって王国は私たちを見つけたのでしょうか。」",
+            "commentary": {
+                "words": [
+                        {"word": "by the way", "mean": "ところで"}
+                        ,
+                        {"word": "how", "mean": "どう、どのような、どうやって"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "find out", "mean": "見つける"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "-"
+        }
+        ,
+        {
+            "text": "\"We are lucky. I was surprised to hear that woman is a princess.\"",
+            "jp": "「俺たちは運がいい。あの女の人がお妃様と聞いて驚いた。」",
+            "commentary": {
+                "words": [
+                        {"word": "lucky", "mean": "幸運な"}
+                        ,
+                        {"word": "surprised", "mean": "驚く"}
+                        ,
+                        {"word": "hear", "mean": "聞く"}
+                        ,
+                        {"word": "that", "mean": "あの、あれ"}
+                        ,
+                        {"word": "woman", "mean": "女の人"}
+                        ,
+                        {"word": "princess", "mean": "王女様、お妃様"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"We could make a legal deal. We should thank that woman.\"",
+            "jp": "「司法取引を成立させることができた。あの女の人に感謝しないと。」",
+            "commentary": {
+                "words": [
+                        {"word": "legal deal", "mean": "司法取引"}
+                        ,
+                        {"word": "should", "mean": "〜するべきだ、〜した方がいい"}
+                        ,
+                        {"word": "thank", "mean": "感謝する、お礼をする"}
+                        ,
+                        {"word": "that", "mean": "あの、あれ"}
+                        ,
+                        {"word": "woman", "mean": "女の人"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"I think so.\"",
+            "jp": "「俺もそう思う。」",
+            "commentary": {
+                "words": [
+                        {"word": "think", "mean": "考える、思う"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "A group of three men was having such a conversation in prison somewhere.",
+            "jp": " 何処かの牢屋でそんな会話をしている三人組の男がいました",
+            "commentary": {
+                "words": [
+                        {"word": "group", "mean": "グループ、集団"}
+                        ,
+                        {"word": "three", "mean": "3"}
+                        ,
+                        {"word": "men", "mean": "manの複数形"}
+                        ,
+                        {"word": "man", "mean": "男の人"}
+                        ,
+                        {"word": "such", "mean": "このような、そのような"}
+                        ,
+                        {"word": "have a conversation", "mean": "会話をする"}
+                        ,
+                        {"word": "prison", "mean": "牢屋、監獄"}
+                        ,
+                        {"word": "somewhere", "mean": "あるところに"}
+                ],
+                "commentaries": [
+                ]
+            }
         }
     ]
 }

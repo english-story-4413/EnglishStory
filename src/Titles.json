@@ -4,7 +4,9 @@
             "eng": "Peach-taro",
             "jp" : "桃太郎",
             "id" : "peach"
-        },{
+        }
+        ,
+        {
             "eng": "Original Story",
             "jp" : "オリジナルストーリー",
             "children":[
