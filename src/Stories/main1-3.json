@@ -1,0 +1,1231 @@
+
+{"texts":
+    [
+        {
+            "text": "\"We are the army of the kingdom. Open the door.\"",
+            "jp": "「王国軍だ、ドアを開けろ。」",
+            "commentary": {
+                "words": [
+                        {"word": "army", "mean": "軍隊、兵隊"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "open", "mean": "開ける"}
+                        ,
+                        {"word": "door", "mean": "ドア"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "The army of the kingdom came to our house.",
+            "jp": "王国軍が私たち（カズーたち）の家にやってきました。",
+            "commentary": {
+                "words": [
+                        {"word": "army", "mean": "軍隊、兵隊"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "came", "mean": "comeの過去形"}
+                        ,
+                        {"word": "come", "mean": "来る"}
+                        ,
+                        {"word": "house", "mean": "家"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Meico No.2, please talk with them.\"",
+            "jp": "「メイコ2号、彼らと話して。」",
+            "commentary": {
+                "words": [
+                        {"word": "talk", "mean": "話す"}
+                        ,
+                        {"word": "with 〜", "mean": "〜と一緒に"}
+                        ,
+                        {"word": "them", "mean": "彼らを、彼らに、彼女らを、彼女らに、それらを、それらに"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Because Meico No.2 is tuf, there may be no problem if they have some potent weapon.",
+            "jp": "メイコ2号はタフなので、彼らが強力な武器を持っているとしても、おそらく問題ないだろう。",
+            "commentary": {
+                "words": [
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "tuf", "mean": "タフ"}
+                        ,
+                        {"word": "may", "mean": "おそらく〜だろう、〜かもしれない"}
+                        ,
+                        {"word": "problem", "mean": "問題"}
+                        ,
+                        {"word": "potent", "mean": "強力な"}
+                        ,
+                        {"word": "weapon", "mean": "武器"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                        ,
+                        {
+                            "title": "even if",
+                            "content": "「even if 〜」で「たとえ〜だとしても。」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.2 went to the front door.",
+            "jp": "メイコは玄関に行った。",
+            "commentary": {
+                "words": [
+                        {"word": "went", "mean": "goの過去形"}
+                        ,
+                        {"word": "go to 〜", "mean": "〜に行く"}
+                        ,
+                        {"word": "front door", "mean": "玄関"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "-"
+        }
+        ,
+        {
+            "text": "\"I will unlock the door as soon as possible.\"",
+            "jp": "「できるだけ早くドアの鍵を開けます。」",
+            "commentary": {
+                "words": [
+                        {"word": "unlock", "mean": "鍵を開ける"}
+                        ,
+                        {"word": "door", "mean": "ドア"}
+                        ,
+                        {"word": "as 〜 as possible", "mean": "できるだけ〜"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.2 said and thought the opponent was the army of the kingdom, so I was nervous but mustn't make them angry.",
+            "jp": "メイコは言って、相手は王国軍だから緊張するけど怒らせてはいけないと思いました。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "thought", "mean": "thinkの過去形"}
+                        ,
+                        {"word": "think", "mean": "考える、思う"}
+                        ,
+                        {"word": "opponent", "mean": "相手"}
+                        ,
+                        {"word": "army", "mean": "軍隊、兵隊"}
+                        ,
+                        {"word": "kingdom", "mean": "王国"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                        ,
+                        {"word": "nervous", "mean": "緊張する"}
+                        ,
+                        {"word": "must", "mean": "〜しなければならない"}
+                        ,
+                        {"word": "make [人] [状態]", "mean": "[人]を[状態]にさせる"}
+                        ,
+                        {"word": "them", "mean": "彼らを、彼らに、彼女らを、彼女らに、それらを、それらに"}
+                        ,
+                        {"word": "angry", "mean": "怒る"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞but",
+                            "content": "「but」は「しかし」という逆接の接続詞です。"
+                        }
+                        ,
+                        {
+                            "title": "must / have to",
+                            "content": "「must」と「have to」はどちらも「〜しなければならない」と言う意味になりますが、\n否定形の\n「must not」は「〜してはならない」、\n「don't have to」は「〜する必要はない」と言う意味の違いがあります。"
+                        }
+                        ,
+                        {
+                            "title": "make [人] [状態]",
+                            "content": "「make [人] [状態]」で「[人]を[状態]にさせる」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "When I unlocked the door and opened it, one of the armies said,",
+            "jp": "私がドアの鍵を開け、それ（ドア）を開けたとき、軍隊の1人が言いました、",
+            "commentary": {
+                "words": [
+                        {"word": "when", "mean": "〜のとき、いつ"}
+                        ,
+                        {"word": "unlock", "mean": "鍵を開ける"}
+                        ,
+                        {"word": "door", "mean": "ドア"}
+                        ,
+                        {"word": "open", "mean": "開ける"}
+                        ,
+                        {"word": "army", "mean": "軍隊、兵隊"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 when",
+                            "content": "「〜 when ー.」で「ーするとき、〜。」という意味になります。\n「When ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"It's late! Making us wait means making the king wait! It's OK to arrest you for treason!\"",
+            "jp": "「遅い！ 私たちを待たせるということは、国王を待たせるということだ！ 反逆罪で逮捕していいんだぞ！」",
+            "commentary": {
+                "words": [
+                        {"word": "late", "mean": "遅い"}
+                        ,
+                        {"word": "make [人] [状態]", "mean": "[人]を[状態]にさせる"}
+                        ,
+                        {"word": "wait", "mean": "待つ"}
+                        ,
+                        {"word": "mean", "mean": "意味する"}
+                        ,
+                        {"word": "king", "mean": "王様"}
+                        ,
+                        {"word": "arrest", "mean": "逮捕する"}
+                        ,
+                        {"word": "treason", "mean": "反逆罪"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "動詞のing形の名詞的用法",
+                            "content": "動詞にingをくっつける と、 「～すること」という意味を表すことができます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "I have pissed them off, and I have to make them calm down.",
+            "jp": "彼らを怒らせてしまった、彼らを落ち着かせないといけません。",
+            "commentary": {
+                "words": [
+                        {"word": "piss off", "mean": "腹を立てる"}
+                        ,
+                        {"word": "have to", "mean": "〜しなければならない"}
+                        ,
+                        {"word": "make [人] [状態]", "mean": "[人]を[状態]にさせる"}
+                        ,
+                        {"word": "calm down", "mean": "落ち着く"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                        ,
+                        {
+                            "title": "must / have to",
+                            "content": "「must」と「have to」はどちらも「〜しなければならない」と言う意味になりますが、\n否定形の\n「must not」は「〜してはならない」、\n「don't have to」は「〜する必要はない」と言う意味の違いがあります。"
+                        }
+                        ,
+                        {
+                            "title": "make [人] [状態]",
+                            "content": "「make [人] [状態]」で「[人]を[状態]にさせる」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "\"I'm sorry. I will be more careful in the future.\"",
+            "jp": "「すみません。今後はもっと気をつけます。」",
+            "commentary": {
+                "words": [
+                        {"word": "I'm sorry.", "mean": "すみません。"}
+                        ,
+                        {"word": "more", "mean": "もっと"}
+                        ,
+                        {"word": "careful", "mean": "注意する"}
+                        ,
+                        {"word": "future", "mean": "将来、未来"}
+                        ,
+                        {"word": "in the future", "mean": "今後は"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "未来の表現will",
+                            "content": "「[主語] will [動詞の一般形] 〜.」で「するつもりです。」と言う意味になります。\n否定文では「will」の部分が「will not」になり、\n疑問文では「Will [主語] [動詞の一般形] 〜?」と言う順番になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "After I said so, an army wearing gorgeous armor grabbed my arm and said,",
+            "jp": "私がそのように言ったあとに、豪華な鎧を着た兵士が私の腕を掴んで言いました。",
+            "commentary": {
+                "words": [
+                        {"word": "after", "mean": "〜のあとに"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                        ,
+                        {"word": "army", "mean": "軍隊、兵隊"}
+                        ,
+                        {"word": "wear", "mean": "着る"}
+                        ,
+                        {"word": "gorgeous", "mean": "豪華な"}
+                        ,
+                        {"word": "armor", "mean": "鎧"}
+                        ,
+                        {"word": "grab", "mean": "掴む"}
+                        ,
+                        {"word": "arm", "mean": "腕"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 after",
+                            "content": "「〜 after ー.」で「ーしたあと、〜。」という意味になります。\n「After ー, 〜.」という書き方もできます。"
+                        }
+                        ,
+                        {
+                            "title": "動詞のing形の形容詞適用法",
+                            "content": "名詞の後に動詞のing形をつけることで、\n「〜している[名詞]」と言う意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Oh, what a good girl.\"",
+            "jp": "「おぉ、なんていい女なんだ。」",
+            "commentary": {
+                "words": [
+                        {"word": "What a 〜.", "mean": "なんと〜でしょう。"}
+                        ,
+                        {"word": "good", "mean": "良い"}
+                        ,
+                        {"word": "girl", "mean": "少女"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "He seems to be a leader of the armies.",
+            "jp": "彼は軍隊のリーダーに見えます。",
+            "commentary": {
+                "words": [
+                        {"word": "seem", "mean": "〜のようだ"}
+                        ,
+                        {"word": "leader", "mean": "リーダー"}
+                        ,
+                        {"word": "army", "mean": "軍隊、兵隊"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The other soldiers also look at me while grinning.",
+            "jp": "他の兵士も私のことをニヤニヤしながら見ています。",
+            "commentary": {
+                "words": [
+                        {"word": "other", "mean": "他の"}
+                        ,
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "look at 〜", "mean": "〜を見る"}
+                        ,
+                        {"word": "while", "mean": "〜しながら、同時に"}
+                        ,
+                        {"word": "grinning", "mean": "ニヤニヤ"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 while",
+                            "content": "「while」は「〜しながら」という意味を表します。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "I feel bad, but I have to tell the master about the number of soldiers and their equipment.",
+            "jp": "悪い気分ですが、兵士の数と装備についてご主人様に伝えなければなりません。",
+            "commentary": {
+                "words": [
+                        {"word": "feel", "mean": "感じる"}
+                        ,
+                        {"word": "bad", "mean": "悪い"}
+                        ,
+                        {"word": "have to", "mean": "〜しなければならない"}
+                        ,
+                        {"word": "tell", "mean": "伝える"}
+                        ,
+                        {"word": "master", "mean": "主人"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "the number of 〜", "mean": "〜の数"}
+                        ,
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "equipment", "mean": "装備"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞but",
+                            "content": "「but」は「しかし」という逆接の接続詞です。"
+                        }
+                        ,
+                        {
+                            "title": "must / have to",
+                            "content": "「must」と「have to」はどちらも「〜しなければならない」と言う意味になりますが、\n否定形の\n「must not」は「〜してはならない」、\n「don't have to」は「〜する必要はない」と言う意味の違いがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "\"All of them are wearing iron armor.",
+            "jp": "「彼らは全員鉄の鎧を着ています。",
+            "commentary": {
+                "words": [
+                        {"word": "all of 〜", "mean": "〜は全て、〜は全員"}
+                        ,
+                        {"word": "them", "mean": "彼らを、彼らに、彼女らを、彼女らに、それらを、それらに"}
+                        ,
+                        {"word": "wear", "mean": "着る"}
+                        ,
+                        {"word": "iron", "mean": "鉄の"}
+                        ,
+                        {"word": "armor", "mean": "鎧"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Their weapons are 15 machine guns, nine swords, and 15 shields.",
+            "jp": "彼らの武器は機関銃15丁と剣9本とたて15枚です。",
+            "commentary": {
+                "words": [
+                        {"word": "weapon", "mean": "武器"}
+                        ,
+                        {"word": "machine gun", "mean": "機関銃"}
+                        ,
+                        {"word": "sword", "mean": "剣"}
+                        ,
+                        {"word": "shield", "mean": "盾"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "There is a captain who doesn't have anything.\"",
+            "jp": "何も持っていない隊長がいます。」",
+            "commentary": {
+                "words": [
+                        {"word": "captain", "mean": "隊長"}
+                        ,
+                        {"word": "have", "mean": "持っている"}
+                        ,
+                        {"word": "anything", "mean": "何も"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "I told Meico No.1 with telepathy.",
+            "jp": "私はメイコ1号にテレパシーで伝えました。",
+            "commentary": {
+                "words": [
+                        {"word": "told", "mean": "tellの過去形"}
+                        ,
+                        {"word": "tell", "mean": "伝える"}
+                        ,
+                        {"word": "with （道具）", "mean": "（道具）で"}
+                        ,
+                        {"word": "telepathy", "mean": "テレパシー"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "After a while, the captain hugged me and touched my navel.",
+            "jp": "しばらくすると、隊長は私を抱きつき、へそを触りました。。",
+            "commentary": {
+                "words": [
+                        {"word": "after a while", "mean": "しばらくして"}
+                        ,
+                        {"word": "captain", "mean": "隊長"}
+                        ,
+                        {"word": "hug", "mean": "抱きしめる、抱く"}
+                        ,
+                        {"word": "touch", "mean": "触る、触れる"}
+                        ,
+                        {"word": "navel", "mean": "へそ"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "A large explosion occurred when the captain's ring touched my navel.",
+            "jp": "艦長の指輪が私のへそに触れた瞬間、大爆発が起きた。",
+            "commentary": {
+                "words": [
+                        {"word": "large", "mean": "大きい"}
+                        ,
+                        {"word": "explosion", "mean": "爆発"}
+                        ,
+                        {"word": "occur", "mean": "起こる"}
+                        ,
+                        {"word": "when", "mean": "〜のとき、いつ"}
+                        ,
+                        {"word": "captain", "mean": "隊長"}
+                        ,
+                        {"word": "ring", "mean": "輪、指輪"}
+                        ,
+                        {"word": "touch", "mean": "触る、触れる"}
+                        ,
+                        {"word": "navel", "mean": "へそ"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 when",
+                            "content": "「〜 when ー.」で「ーするとき、〜。」という意味になります。\n「When ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Because Meico's navel is a charging port, the energy in Meiko was released immediately when the ring touched her navel.",
+            "jp": "メイコのヘソは充電端子だから、指輪が当たったとき、メイコの中のエネルギーは瞬時に放出されました。",
+            "commentary": {
+                "words": [
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "navel", "mean": "へそ"}
+                        ,
+                        {"word": "charging port", "mean": "充電端子"}
+                        ,
+                        {"word": "energy", "mean": "エネルギー"}
+                        ,
+                        {"word": "release", "mean": "放出する"}
+                        ,
+                        {"word": "immediately", "mean": "瞬時に、直ちに"}
+                        ,
+                        {"word": "when", "mean": "〜のとき、いつ"}
+                        ,
+                        {"word": "ring", "mean": "輪、指輪"}
+                        ,
+                        {"word": "touch", "mean": "触る、触れる"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                        ,
+                        {
+                            "title": "受動態 be + 過去分詞形",
+                            "content": "「be [動詞の過去分詞形]」で「〜される」という受け身の意味になります。"
+                        }
+                        ,
+                        {
+                            "title": "接続詞 when",
+                            "content": "「〜 when ー.」で「ーするとき、〜。」という意味になります。\n「When ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "As a result, the captain was charred black, and Meiko's battery ran out.",
+            "jp": "結果として、その隊長は黒焦げになり、メイコのバッテリーは尽きた。",
+            "commentary": {
+                "words": [
+                        {"word": "as a result", "mean": "結果として"}
+                        ,
+                        {"word": "captain", "mean": "隊長"}
+                        ,
+                        {"word": "char", "mean": "焦がす"}
+                        ,
+                        {"word": "black", "mean": "黒"}
+                        ,
+                        {"word": "battery", "mean": "電池"}
+                        ,
+                        {"word": "run out", "mean": "尽きる"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "受動態 be + 過去分詞形",
+                            "content": "「be [動詞の過去分詞形]」で「〜される」という受け身の意味になります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The other soldiers ran into the house to catch Yu and get promoted.",
+            "jp": "ユーを捕まえて昇進するために、他の兵隊は家に駆け込んだ。",
+            "commentary": {
+                "words": [
+                        {"word": "other", "mean": "他の"}
+                        ,
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "ran", "mean": "runの過去形"}
+                        ,
+                        {"word": "into 〜", "mean": "〜の中に"}
+                        ,
+                        {"word": "house", "mean": "家"}
+                        ,
+                        {"word": "catch", "mean": "捕まえる"}
+                        ,
+                        {"word": "get promoted", "mean": "昇進する"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "To不定詞",
+                            "content": "「to + 動詞の原形」で「〜すること」、「〜するための」、「〜するために」という3つの意味があります。 "
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "Soldiers rushed into the living room.",
+            "jp": "兵士たちはリビングルームに駆けつけた",
+            "commentary": {
+                "words": [
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "rush", "mean": "駆けつける"}
+                        ,
+                        {"word": "into 〜", "mean": "〜の中に"}
+                        ,
+                        {"word": "living room", "mean": "リビングルーム"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.1 said,",
+            "jp": "メイコ1号は言いました、",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"The battery of Meico No.2 is completely dead.\"",
+            "jp": "「メイコ2号のバッテリーは完全に壊れました。」",
+            "commentary": {
+                "words": [
+                        {"word": "battery", "mean": "電池"}
+                        ,
+                        {"word": "completely", "mean": "完全に"}
+                        ,
+                        {"word": "dead", "mean": "死んでいる"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "We must fly away because the main force, Meico No.2, can't move.",
+            "jp": "主力のメイコ2号が動けないので、私たちは飛び去らなければなりません。",
+            "commentary": {
+                "words": [
+                        {"word": "must", "mean": "〜しなければならない"}
+                        ,
+                        {"word": "fly away", "mean": "飛び去る"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "main", "mean": "主な、主要な"}
+                        ,
+                        {"word": "force", "mean": "強いる、力"}
+                        ,
+                        {"word": "move", "mean": "動く"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "must / have to",
+                            "content": "「must」と「have to」はどちらも「〜しなければならない」と言う意味になりますが、\n否定形の\n「must not」は「〜してはならない」、\n「don't have to」は「〜する必要はない」と言う意味の違いがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Then, we can't fly with Meico No.2 because she is too heavy.",
+            "jp": "それから、彼女は重すぎるので、私たちはメイコ2号と一緒に飛べません。",
+            "commentary": {
+                "words": [
+                        {"word": "fly", "mean": "飛ぶ、飛んでくる"}
+                        ,
+                        {"word": "with 〜", "mean": "〜と一緒に"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "too", "mean": "すぎる"}
+                        ,
+                        {"word": "heavy", "mean": "重い"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.3 pulled the seatbelt from her arm and began fixing Kazoo, Yu, and Meico No.1.",
+            "jp": "メイコ3号は彼女の腕からシートベルトを引き抜き、カズーとユーとメイコ1号を固定し始めました。",
+            "commentary": {
+                "words": [
+                        {"word": "pull", "mean": "引き抜く"}
+                        ,
+                        {"word": "seatbelt", "mean": "シートベルト"}
+                        ,
+                        {"word": "arm", "mean": "腕"}
+                        ,
+                        {"word": "began", "mean": "beginの過去形"}
+                        ,
+                        {"word": "begin", "mean": "始める"}
+                        ,
+                        {"word": "fix", "mean": "修理する、固定する"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Don't move!\" one of the soldiers said and shot a gun.",
+            "jp": "「動くな！」と兵士の1人がいい、銃を撃った。",
+            "commentary": {
+                "words": [
+                        {"word": "move", "mean": "動く"}
+                        ,
+                        {"word": "one of 〜", "mean": "〜の1人、〜の１つ"}
+                        ,
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "shoot a gun", "mean": "銃を撃つ"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The bullet hit Yu's right shoulder, and she fainted.",
+            "jp": "弾丸はユーの右肩に当たり、彼女は気絶しました。",
+            "commentary": {
+                "words": [
+                        {"word": "bullet", "mean": "弾丸"}
+                        ,
+                        {"word": "hit", "mean": "当たる"}
+                        ,
+                        {"word": "right", "mean": "右、正しい"}
+                        ,
+                        {"word": "shoulder", "mean": "肩"}
+                        ,
+                        {"word": "faint", "mean": "気を失う"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"I should have prepared a little earlier,\"",
+            "jp": "「もう少し準備を早くするべきでした。」",
+            "commentary": {
+                "words": [
+                        {"word": "should", "mean": "〜するべきだ、〜した方がいい"}
+                        ,
+                        {"word": "prepare", "mean": "準備する"}
+                        ,
+                        {"word": "a little", "mean": "少し"}
+                        ,
+                        {"word": "early", "mean": "早く"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "現在完了 have + [動詞の過去分詞形]",
+                            "content": "「have + [動詞の過去分詞形]」で以下の3つの意味になります。\n\n① 継続「(ずっと)～している」\n② 経験「～したことがある」\n③ 完了・結果「(ちょうど)～したところだ」「(もう)～した」"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "saying so, Meico No.3 shot flames from her feet and took off like a rocket.",
+            "jp": "そのように言いながら、メイコ3号は足から炎を噴射し、ロケットのように飛び立ちました。",
+            "commentary": {
+                "words": [
+                        {"word": "say", "mean": "言う"}
+                        ,
+                        {"word": "so", "mean": "だから、そのように"}
+                        ,
+                        {"word": "shot", "mean": "shootの過去形"}
+                        ,
+                        {"word": "shoot", "mean": "撃つ、射る、噴射する"}
+                        ,
+                        {"word": "flame", "mean": "炎"}
+                        ,
+                        {"word": "feet", "mean": "足"}
+                        ,
+                        {"word": "took", "mean": "takeの過去形"}
+                        ,
+                        {"word": "take off", "mean": "飛び立つ"}
+                        ,
+                        {"word": "like", "mean": "好きだ、〜のように"}
+                        ,
+                        {"word": "rocket", "mean": "ロケット"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 and",
+                            "content": "「〜, and ー.」で「〜、そして、ー。」という意味になります。\nandの前後で主語が同じ場合、2回目では主語を省略することがあります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "The soldiers are puzzled by the suddenness.",
+            "jp": "兵士たちは突然のことに戸惑います。",
+            "commentary": {
+                "words": [
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "puzzle", "mean": "戸惑わせる"}
+                        ,
+                        {"word": "suddenness", "mean": "突然のこと"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "One soldier thought that he could recover from this state of complete failure.",
+            "jp": "ある兵士は、この完全な失敗の状態から挽回できると考えました。",
+            "commentary": {
+                "words": [
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "thought", "mean": "thinkの過去形"}
+                        ,
+                        {"word": "think", "mean": "考える、思う"}
+                        ,
+                        {"word": "recover", "mean": "回復する、挽回する"}
+                        ,
+                        {"word": "from 〜", "mean": "〜から"}
+                        ,
+                        {"word": "complete", "mean": "完全な"}
+                        ,
+                        {"word": "failure", "mean": "失敗"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "-"
+        }
+        ,
+        {
+            "text": "We are now 500 meters above the sky.",
+            "jp": "私たち（カズーたち）は今、上空500メートルにいます。",
+            "commentary": {
+                "words": [
+                        {"word": "now", "mean": "今"}
+                        ,
+                        {"word": "meter", "mean": "メートル"}
+                        ,
+                        {"word": "above", "mean": "上"}
+                        ,
+                        {"word": "above the sky", "mean": "上空"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.1 is taking care of Yu, and Yu is sleeping under anesthesia.",
+            "jp": "メイコ1号がユーの手当てをし、ユーは麻酔で寝ている。",
+            "commentary": {
+                "words": [
+                        {"word": "take care of 〜", "mean": "〜の世話をする、〜の手当てをする"}
+                        ,
+                        {"word": "sleep", "mean": "寝る、眠る"}
+                        ,
+                        {"word": "anesthesia", "mean": "麻酔"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "進行形 be 〜ing",
+                            "content": "「be [動詞のing形]」で「〜している」という意味になります。\n否定をする場合は「be not [動詞のing形]」\n質問をするときは「be [主語] [動詞のing形] 」となります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "She said,",
+            "jp": "彼女は言いました、",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Master, this bullet is fragile and is shattering in the shoulder.",
+            "jp": "「ご主人様、この弾丸は壊れやすく、肩のところで砕け散っています。",
+            "commentary": {
+                "words": [
+                        {"word": "master", "mean": "主人"}
+                        ,
+                        {"word": "bullet", "mean": "弾丸"}
+                        ,
+                        {"word": "fragile", "mean": "壊れやすい"}
+                        ,
+                        {"word": "shatter", "mean": "砕け散る"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "進行形 be 〜ing",
+                            "content": "「be [動詞のing形]」で「〜している」という意味になります。\n否定をする場合は「be not [動詞のing形]」\n質問をするときは「be [主語] [動詞のing形] 」となります。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "It is hard to remove the bullet, and it takes time to remove the bullet.\"",
+            "jp": "弾を取り除くのが難しく、弾を抜くのに時間がかかります。」",
+            "commentary": {
+                "words": [
+                        {"word": "hard", "mean": "つらい、難しい"}
+                        ,
+                        {"word": "remove", "mean": "取り除く"}
+                        ,
+                        {"word": "bullet", "mean": "弾丸"}
+                        ,
+                        {"word": "it takes time to 〜", "mean": "〜するのに時間がかかる"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"How long does it take?\"",
+            "jp": "「それはどのくらいかかりますか？」",
+            "commentary": {
+                "words": [
+                        {"word": "how long 〜?", "mean": "どのくらいの（期間、時間）？"}
+                        ,
+                        {"word": "take", "mean": "持っていく、連れていく、時間がかかる"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "<br>"
+        }
+        ,
+        {
+            "text": "\"Two or three hours.\"",
+            "jp": "「二、三時間」",
+            "commentary": {
+                "words": [
+                        {"word": "two", "mean": "2"}
+                        ,
+                        {"word": "three", "mean": "3"}
+                        ,
+                        {"word": "hours", "mean": "時間（単位）"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "\"Really?",
+            "jp": "「本当？",
+            "commentary": {
+                "words": [
+                        {"word": "really", "mean": "本当に"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "We can only do surgery in the air because we must worry about raids from soldiers if we are on the ground.",
+            "jp": "地上にいると兵士からの襲撃を心配しなければならないため、空中でしか手術を行うことができません。",
+            "commentary": {
+                "words": [
+                        {"word": "surgery", "mean": "手術"}
+                        ,
+                        {"word": "because", "mean": "だから"}
+                        ,
+                        {"word": "must", "mean": "〜しなければならない"}
+                        ,
+                        {"word": "worry", "mean": "心配する"}
+                        ,
+                        {"word": "about 〜", "mean": "〜について"}
+                        ,
+                        {"word": "raid", "mean": "襲撃"}
+                        ,
+                        {"word": "soldier", "mean": "兵士"}
+                        ,
+                        {"word": "on", "mean": "〜の上に"}
+                        ,
+                        {"word": "ground", "mean": "地面"}
+                        ,
+                        {"word": "on the ground", "mean": "地上に"}
+                ],
+                "commentaries": [
+                        {
+                            "title": "接続詞 because",
+                            "content": "「Because 〜, ー.」で「〜だからー。」という意味になります。\n「ー because 〜.」という表現もできます。"
+                        }
+                        ,
+                        {
+                            "title": "must / have to",
+                            "content": "「must」と「have to」はどちらも「〜しなければならない」と言う意味になりますが、\n否定形の\n「must not」は「〜してはならない」、\n「don't have to」は「〜する必要はない」と言う意味の違いがあります。"
+                        }
+                        ,
+                        {
+                            "title": "副詞句 if",
+                            "content": "「〜 if ー.」で「もしーならば、〜。」という意味になります。\n「If ー, 〜.」という書き方もできます。"
+                        }
+                ]
+            }
+        }
+        ,
+        {
+            "text": "I'll do my best to fly as long as possible.\"",
+            "jp": "できるだけ長く飛べるように最善を尽くします。」",
+            "commentary": {
+                "words": [
+                        {"word": "I'll do my best", "mean": "全力を尽くす"}
+                        ,
+                        {"word": "fly", "mean": "飛ぶ、飛んでくる"}
+                        ,
+                        {"word": "as 〜 as possible", "mean": "できるだけ〜"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "Meico No.3 said.",
+            "jp": "メイコ3号は言った。",
+            "commentary": {
+                "words": [
+                        {"word": "said", "mean": "sayの過去形、過去分詞形"}
+                        ,
+                        {"word": "say", "mean": "言う"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "God, I hope the surgery goes smoothly.",
+            "jp": "神様、手術がスムーズに終わりますように。",
+            "commentary": {
+                "words": [
+                        {"word": "god", "mean": "神様"}
+                        ,
+                        {"word": "I hope 〜", "mean": "〜しますように。"}
+                        ,
+                        {"word": "surgery", "mean": "手術"}
+                        ,
+                        {"word": "smoothly", "mean": "スムーズに"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+        ,
+        {
+            "text": "With that in mind, I gripped the amulet pendant he inherited from his father.",
+            "jp": "そう思いながら、私（カズー）は父譲りのお守りペンダントを握りしめる。",
+            "commentary": {
+                "words": [
+                        {"word": "that", "mean": "あの、あれ"}
+                        ,
+                        {"word": "mind", "mean": "心"}
+                        ,
+                        {"word": "grip", "mean": "握る"}
+                        ,
+                        {"word": "amulet", "mean": "お守り"}
+                        ,
+                        {"word": "pendant", "mean": "ペンダント"}
+                        ,
+                        {"word": "inherit", "mean": "受け継ぐ"}
+                        ,
+                        {"word": "from 〜", "mean": "〜から"}
+                        ,
+                        {"word": "father", "mean": "父親"}
+                ],
+                "commentaries": [
+                ]
+            }
+        }
+    ]
+}

@@ -386,7 +386,7 @@
             "jp": "男たちの1人がカズーに言いました。",
             "commentary": {
                 "words": [
-                        {"word": "one of 〜", "mean": "〜の1人"}
+                        {"word": "one of 〜", "mean": "〜の1人、〜の１つ"}
                         ,
                         {"word": "men", "mean": "manの複数形"}
                         ,
@@ -663,7 +663,7 @@
         ,
         {
             "text": "\"What are you talking about? I cannot give you the wheat.\"",
-            "jp": "",
+            "jp": "何を話しているの。小麦はあげることができません。",
             "commentary": {
                 "words": [
                         {"word": "talk", "mean": "話す"}
@@ -728,7 +728,7 @@
                         ,
                         {"word": "warehouse", "mean": "倉庫"}
                         ,
-                        {"word": "fainted", "mean": "気を失う"}
+                        {"word": "faint", "mean": "気を失う"}
                 ],
                 "commentaries": [
                         {
@@ -784,7 +784,7 @@
                         ,
                         {"word": "kick", "mean": "蹴る"}
                         ,
-                        {"word": "fainted", "mean": "気を失う"}
+                        {"word": "faint", "mean": "気を失う"}
                 ],
                 "commentaries": [
                         {
@@ -1391,7 +1391,7 @@
             "jp": "メイコ1号は優しく彼女を抱きしめて言いました。",
             "commentary": {
                 "words": [
-                        {"word": "hug", "mean": "抱きしめる"}
+                        {"word": "hug", "mean": "抱きしめる、抱く"}
                         ,
                         {"word": "gently", "mean": "優しく"}
                         ,
